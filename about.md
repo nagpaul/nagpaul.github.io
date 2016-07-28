@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Hello  [jekyllrb.com](http://jekyllrb.com/)
+Hello 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+My name is Sneha Nagpaul and I am an international student in the  **MS, Computer Science Program** at **[George Mason University](https://www2.gmu.edu/)**. I obtained my undergraduate degree from University of Delhi, India, in Computer Science. I am also a part-qualified Actuary with the Casualty Actuarial Society, US.
