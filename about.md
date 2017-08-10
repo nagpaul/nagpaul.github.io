@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 
-Data Science Intern at All Traffic Solutions. 
-MS Computer Science - George Mason University.
+Data Science Intern at All Traffic Solutions 
+MS Computer Science - George Mason University
 
 <!-- ---
 title: About
