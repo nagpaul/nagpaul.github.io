@@ -2,7 +2,6 @@
 title: "Why I Write."
 layout: post
 date: 2018-07-17 18:55:00 -0700
-<!-- image: /assets/images/markdown.jpg -->
 headerImage: false
 tag:
 - philosophy
@@ -10,7 +9,6 @@ tag:
 category: blog
 author: sneha
 description: 
-<!-- # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">' -->
 ---
 
  
