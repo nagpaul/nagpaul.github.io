@@ -15,6 +15,3 @@ description: It is I
 ---
 
 I'm online. 
- 
-
- 

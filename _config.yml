@@ -1,6 +1,6 @@
 # main text of home
 name: Sneha Nagpaul 
-bio: Data Scientist  
+bio: false
 
 # twitter summary info
 description: Something something Danger Zone. 
@@ -54,7 +54,7 @@ email: snehanagpaul@me.com
 authors:
     sneha:
         name: Sneha Nagpaul
-        bio:  Data Scientist
+        bio:  false
         external-image: false
         picture: assets/images/profile.jpg
         twitter: snagpaul
@@ -66,7 +66,7 @@ width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
-# paginate_path: "blog/:num/"
+# paginate_path: "blog/:num/"i
 
 # if you don't need projects, comment the *projects* configs below
 # projects: true
